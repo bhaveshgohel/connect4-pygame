@@ -89,6 +89,11 @@ This project was built using Amazon Q CLI, which provided assistance with:
 - Bug fixing and troubleshooting
 - Feature implementation
 
+## Gameplay
+
+![Gameplay](https://github.com/user-attachments/assets/c6eccad0-2b06-4dca-a663-2733fc36871b)
+
+
 ## License
 
 This project is open source and available under the MIT License.
