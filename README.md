@@ -2,6 +2,10 @@
 
 A modern implementation of the classic Connect 4 game built with Python and Pygame. This project was developed using Amazon Q CLI and features a sleek interface, multiple game modes, and AI opponents with varying difficulty levels.
 
+
+![Connect 4 Game with Pygame](https://github.com/user-attachments/assets/87a3ff97-4340-4f3b-9a3b-4dab194a421d)
+
+
 ## Features
 
 - Modern, visually appealing user interface with animations
